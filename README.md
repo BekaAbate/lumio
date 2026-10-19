@@ -27,7 +27,6 @@ A clean, minimal and fully responsive landing page built with **Next.js 16**, **
 - **Minimal Landing Design** – Sleek hero section with clear call-to-action
 - **Responsive UI** – Mobile-first layout that adapts across all screen sizes
 - **Dark/Light Mode** – Seamless theme switching powered by `next-themes`
-- **Reusable UI Components** – Built with shadcn/ui for consistency and scalability
 - **Modern Typography** – Optimized fonts with `next/font`
 - **Accessible & Clean** – Focused on UX, readability and performance
 
